@@ -13,11 +13,9 @@ Se dividen entres tipos
 FUNCIONES DE PRIMER ORDEN
 
 Es una funcion o toda funcion que puede ser tratada como una variable
-- Puede ser guardada esta funcion, puede ser ejecutaday puede ser enviada comoparametro a funciones.
+- Puede ser guardada esta funcion, puede ser ejecutada y puede ser enviada como parametro a funciones.
 
 
 FUNCIONES DE ORDEN SUPERIOR
 
 Es una funcion que puede recibir en sus parametros funciones.
-
-\
